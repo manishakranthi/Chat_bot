@@ -1,0 +1,33 @@
+@charset "UTF-8";
+#textInput {
+    border: none;
+    border-bottom: 3px solid rgb(130, 133, 133);
+}
+
+.userText {
+    color: rgb(0, 0, 0);
+    font-family: monospace;
+    font-size: 17px;
+    text-align: right;
+    line-height: 30px;
+}
+.userText span {
+    background-color: #9fc3f8;
+    padding: 10px;
+    border-radius: 2px;
+}
+.botText {
+    color: rgb(0, 0, 0);
+    font-family: monospace;
+    font-size: 17px;
+    text-align: left;
+    line-height: 30px;
+}
+.botText span {
+    background-color: #bfbfbf;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+
+    
